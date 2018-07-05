@@ -37,7 +37,17 @@ deployer ALL=NOPASSWD:/usr/sbin/service php7.0-fpm restart
 ```
 
 ## Installation
+To install Capistrano, run this command:
+```
+gem install capistrano
+```
+To install capistrano-magento2, run this command:
+```
+gem install capistrano-magento2
+```
 
 ## Configuration
 
 ## Deployment
+
+## Rollback
